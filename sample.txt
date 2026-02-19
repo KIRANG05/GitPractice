@@ -2,4 +2,8 @@
 hii
 hello
 okkkk
+<<<<<<< Updated upstream
 aaaa
+=======
+java is very good
+>>>>>>> Stashed changes
