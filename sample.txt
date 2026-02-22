@@ -7,3 +7,4 @@ aaaa
 =======
 java is very good
 >>>>>>> Stashed changes
+focus on work
